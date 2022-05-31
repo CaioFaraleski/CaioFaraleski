@@ -1,5 +1,5 @@
-<h1 align="center"> E aí, me chamo Caio,</h1>
-<h2 align="center"> eu sou desenvolvedor, vem conhecer um pouco dos meus projetos.😉</h2>
+<h2 align="center"> E aí, me chamo Caio</h2>
+<p align="center"> Eu sou desenvolvedor, vem conhecer um pouco dos meus projetos.😉</p>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
